@@ -1,0 +1,15 @@
+aws-sdk-java;aws/aws-sdk-java;https://github.com/aws/aws-sdk-java.git;https://github.com/aws/aws-sdk-java;1998;
+beam;apache/beam;https://github.com/apache/beam.git;https://github.com/apache/beam;1212;
+camel;apache/camel;https://github.com/apache/camel.git;https://github.com/apache/camel;1323;
+elastic-job;dangdangdotcom/elastic-job;https://github.com/dangdangdotcom/elastic-job.git;https://github.com/dangdangdotcom/elastic-job;2144;571
+flume;apache/flume;https://github.com/apache/flume.git;https://github.com/apache/flume;1036;642
+hadoop;apache/hadoop;https://github.com/apache/hadoop.git;https://github.com/apache/hadoop;3351;
+hazelcast;hazelcast/hazelcast;https://github.com/hazelcast/hazelcast.git;https://github.com/hazelcast/hazelcast;2094;
+hbase;apache/hbase;https://github.com/apache/hbase.git;https://github.com/apache/hbase;1284;
+jetty.project;eclipse/jetty.project;https://github.com/eclipse/jetty.project.git;https://github.com/eclipse/jetty.project;1407;2567
+kafka;apache/kafka;https://github.com/apache/kafka.git;https://github.com/apache/kafka;5620;
+lens;apache/lens;https://github.com/apache/lens.git;https://github.com/apache/lens;38;
+nanohttpd;NanoHttpd/nanohttpd;https://github.com/NanoHttpd/nanohttpd.git;https://github.com/NanoHttpd/nanohttpd;2810;
+neo4j;neo4j/neo4j;https://github.com/neo4j/neo4j.git;https://github.com/neo4j/neo4j;3883;
+sling;apache/sling;https://github.com/apache/sling.git;https://github.com/apache/sling;211;
+twitter4j;yusuke/twitter4j;https://github.com/yusuke/twitter4j.git;https://github.com/yusuke/twitter4j;2028;426

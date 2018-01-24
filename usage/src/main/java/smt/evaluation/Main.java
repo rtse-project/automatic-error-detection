@@ -169,7 +169,7 @@ public class Main {
         stats.write("\n# Error: " + nError);
         stats.write("\n# Classes w/ error: " + nClassError);
         stats.write("\n# Methods w/ error: " + nMethodError);
-        stats.write("\n# Methods Analyzed: " + Statistic.getnMethod());
+        //stats.write("\n# Methods Analyzed: " + Statistic.getnMethod());
         stats.write("\n# Methods Path Analyzed: " + Statistic.getnMethodPath());
         stats.flush();
         stats.close();
